@@ -8,10 +8,9 @@ body {
 
 h1 {
   background-color: rgb(235, 222, 255);
-  color: hsl(264°, 100%, 94%);
+  color:palegreen ;
   padding: 40px;
   text-align: center;
-  color: #a63367;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
