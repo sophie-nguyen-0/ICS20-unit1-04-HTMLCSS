@@ -7,16 +7,15 @@ body {
 }
 
 h1 {
-  background-color: rgb(235, 222, 255);
-  color: hsl(264deg, 100%, 94%);
+  background-color: rgb(255, 224, 234);
+  color: darkgoldenrod;
   padding: 40px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: darkcyan;
 }
 
 p {
-  background-color: rgb(235, 222, 255);
+  background-color: rgb(255, 224, 231);
   text-align: left;
   color: #a63367;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
