@@ -1,0 +1,35 @@
+/*
+*created by: sophie nguyen
+*sept 20 2022
+*/
+body {
+  background-color: #ffdd80;
+}
+
+h1 {
+  background-color: rgb(255, 233, 214);
+  color: darkgoldenrod;
+  padding: 40px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  background-color: rgb(245 245 220);
+  text-align: left;
+  color: #ff8b4d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15;
+}
+
+ul{
+  background-color: lavender;
+  color:#ec8a55;
+}
+
+table{
+  border:solid thin;
+  background-color: #f5a799;
+  color:#d73e2d;
+}
+
