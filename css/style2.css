@@ -22,14 +22,13 @@ p {
   font-size: 15;
 }
 
-ul{
+ul {
   background-color: lavender;
-  color:#ec8a55;
+  color: #ec8a55;
 }
 
-table{
-  border:solid thin;
+table {
+  border: solid thin;
   background-color: #f5a799;
-  color:#d73e2d;
+  color: #d73e2d;
 }
-
